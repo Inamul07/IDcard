@@ -1,5 +1,5 @@
 var myDatabase = [
-    {name:'Mohammed Inamul Hassan' , email:'mohammedinamul87@gmail.com' , age:17},
+    
 ];
 
 (function avatars(db){
